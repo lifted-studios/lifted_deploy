@@ -1,5 +1,5 @@
-require "lifted_deploy/version"
+#
+# Copyright (c) 2013 by Lifted Studios. All Rights Reserved.
+#
 
-module LiftedDeploy
-  # Your code goes here...
-end
+require 'lifted_deploy/version'
