@@ -3,5 +3,6 @@
 #
 
 module LiftedDeploy
+  # Version number for the gem.
   VERSION = '0.0.1'
 end
